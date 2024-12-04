@@ -1,5 +1,5 @@
 ## Project Description: Countdown Timer
-This project creates a simple yet elegant countdown timer using **HTML**, **CSS**, and **JavaScript**. The timer allows users to input a number of seconds, click a button to start the countdown, and displays the remaining time in a styled div. The design is enhanced with CSS for a modern, clean look.
+This project creates a simple countdown timer using **HTML**, **CSS**, and **JavaScript**. The timer allows users to input a number of seconds, click a button to start the countdown, and displays the remaining time in a styled div. The design is enhanced with CSS for a modern, clean look.
 
 ### Technologies Used
 * **HTML**: Structure of the timer interface, including input, button, and display elements.
